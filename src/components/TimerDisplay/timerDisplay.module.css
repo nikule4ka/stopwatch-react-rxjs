@@ -1,0 +1,25 @@
+.container {
+    margin-bottom: 20px;
+}
+
+
+.title {
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+    color: #2c3e50;
+}
+
+.counter {
+    font-size: 30px;
+    border: 2px solid #2c3e50;
+    padding: 20px;
+    border-radius: 6px;
+    color: #2c3e50;
+   
+}
+
+.delimiter {
+      font-size: 40px;
+      
+}
